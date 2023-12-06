@@ -59,7 +59,7 @@ Fuera del ámbito profesional, mis intereses se centran en el deporte y en disfr
 
 #### Santiago Passerini [Linkedin](https://www.linkedin.com/in/santiago-passerini-7266a01b0/)
 <div style="display: flex; align-items: center;">
-    <img src="https://media.licdn.com/dms/image/D4D03AQG9Fdy7vo3DPQ/profile-displayphoto-shrink_800_800/0/1681225759518?e=1706140800&v=beta&t=y-RigVoxXnK3bQx-_fMPmvGGBdjLJiOkS2Q3ZRYoHDg" alt="Imagen" width="200" style="margin-right: 20px;">
+    <img src="https://media.licdn.com/dms/image/D4D03AQEdT22fGqXD9g/profile-displayphoto-shrink_800_800/0/1701792935305?e=1707350400&v=beta&t=NN6Dv3D4O-bg5Kfp3vOWac_I7eQZg_eDUYPhyVzoM98" alt="Imagen" width="200" style="margin-right: 20px;">
     <p>
 	    <strong>Analista de Datos - Consultor</strong><br>
         Hola, soy Santiago, un futuro Ingeniero Industrial, Analista de datos y apasionado Emprendedor de 23 años nacido en Italia y criado en Argentina. Fusiono mis habilidades técnicas con creatividad y determinación. Me encuentro en constante desarrollo de nuevos proyectos innovadores de diferentes ámbitos, exigiendo mi capacidad de adaptabilidad y destacando mi búsqueda de soluciones creativas. Inspirado por el deporte y lo desconocido.
