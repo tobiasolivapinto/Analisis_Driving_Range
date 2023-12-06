@@ -12,7 +12,8 @@
 4. [Roles](#roles)
 5. [Equipo](#equipo)
 6. [Archivos](#archivos)
-7. [Areas](#areas)
+7. [Etapas](#etapas)
+8. [Conclusiones](#conclusiones)
 
 ------------
 
