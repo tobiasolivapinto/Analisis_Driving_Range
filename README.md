@@ -81,7 +81,7 @@ Fuera del ámbito profesional, mis intereses se centran en el deporte y en disfr
 ### Archivos
 En este apartado encontrarás una pequeña guia para navegar a través de los archivos del repositorio.  
 
-- **ReadME.md** [(link)](https://github.com/tobiasolivapinto/ProyectoGrupal-SoyHenry/blob/main/ReadME.md) → En el archivo "ReadME.md", encontrarán toda la información pertinente al proyecto, su historia, contexto, integrantes, entre otras cosas de interés. 
+- **ReadME.md** [(link)](https://github.com/tobiasolivapinto/Analisis_Driving_Range/blob/main/README.md) → En el archivo "ReadME.md", encontrarán toda la información pertinente al proyecto, su historia, contexto, integrantes, entre otras cosas de interés. 
 
 - **Excel** [(link)](https://github.com/tobiasolivapinto/Analisis_Driving_Range/tree/main/Excel)  →  En la carpeta "Excel", encontrarán los archivos excel, cabes destacar que dentro de cada uno hay mas de una pestaña, dado que posen tanto las tablas originales como las modificadas. 
     - **Encuestas** [(link)](https://github.com/tobiasolivapinto/Analisis_Driving_Range/blob/main/Excel/Encuestas.xlsx)  →  Encontrarás un archivo con los resultados de ambas encuestas. La hoja titulada 'Jugadores' contiene la información correspondiente a la encuesta realizada a los jugadores de golf, mientras que la hoja 'Profesores' contiene los datos recopilados de la encuesta dirigida a los profesores de golf.
