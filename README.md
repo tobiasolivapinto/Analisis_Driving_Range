@@ -49,7 +49,7 @@ Cabe destacar que cada integrante no se desempeñara en un solo rol. Dada la ori
 
 #### Felipe Meglioli [Linkedin](https://www.linkedin.com/in/felipe-meglioli-31413a248/?originalSubdomain=ar)
 <div style="display: flex; align-items: center;">
-    <img src="https://media.licdn.com/dms/image/D4D03AQGXb0XCy0rFxA/profile-displayphoto-shrink_800_800/0/1684108119462?e=1706140800&v=beta&t=-21S0GbllNkFnk5Ezn4gIkZS9VxqYJs6WkAXGe7D_ZA" alt="Imagen" width="200" style="margin-right: 20px;">
+    <img src="https://media.licdn.com/dms/image/D4D03AQGXb0XCy0rFxA/profile-displayphoto-shrink_400_400/0/1684108119462?e=1724889600&v=beta&t=uKA-toeycYpZnErLy4yIYbrpA8Q3k0U9zQ9QikAAkJc" alt="Imagen" width="200" style="margin-right: 20px;">
     <p>
 	    <strong>Analista Financiero - Consultor</strong><br>
         ¡Hola! Soy Felipe Meglioli, tengo 24 años y estoy próximo a obtener mi licenciatura en Economía. Actualmente, me encuentro inmerso en el mundo financiero, trabajando en una sociedad de bolsa. 
@@ -60,7 +60,7 @@ Fuera del ámbito profesional, mis intereses se centran en el deporte y en disfr
 
 #### Santiago Passerini [Linkedin](https://www.linkedin.com/in/santiago-passerini-7266a01b0/)
 <div style="display: flex; align-items: center;">
-    <img src="https://media.licdn.com/dms/image/D4D03AQEdT22fGqXD9g/profile-displayphoto-shrink_800_800/0/1701792935305?e=1707350400&v=beta&t=NN6Dv3D4O-bg5Kfp3vOWac_I7eQZg_eDUYPhyVzoM98" alt="Imagen" width="200" style="margin-right: 20px;">
+    <img src="https://media.licdn.com/dms/image/D4D03AQEdT22fGqXD9g/profile-displayphoto-shrink_400_400/0/1701792935305?e=1724889600&v=beta&t=iorbtFKjydngGv7b4T7jA6YCDjBrBcuXnYCcE_QedL0" alt="Imagen" width="200" style="margin-right: 20px;">
     <p>
 	    <strong>Analista de Datos - Consultor</strong><br>
         Hola, soy Santiago, un futuro Ingeniero Industrial, Analista de datos y apasionado Emprendedor de 23 años nacido en Italia y criado en Argentina. Fusiono mis habilidades técnicas con creatividad y determinación. Me encuentro en constante desarrollo de nuevos proyectos innovadores de diferentes ámbitos, exigiendo mi capacidad de adaptabilidad y destacando mi búsqueda de soluciones creativas. Inspirado por el deporte y lo desconocido.
@@ -70,7 +70,7 @@ Fuera del ámbito profesional, mis intereses se centran en el deporte y en disfr
 
 #### Tobias Oliva Pinto [Linkedin](https://www.linkedin.com/in/olivapintotobias/)
 <div style="display: flex; align-items: center;">
-    <img src="https://media.licdn.com/dms/image/D4D03AQHOo19d5aSn0A/profile-displayphoto-shrink_800_800/0/1687974923153?e=1706140800&v=beta&t=qLLHeu4wlNr45b4wVel31nPKPtziQYTJBfzSZ07dllo" alt="Imagen" width="200" style="margin-right: 20px;">
+    <img src="https://media.licdn.com/dms/image/D4D03AQHOo19d5aSn0A/profile-displayphoto-shrink_400_400/0/1687974923153?e=1724889600&v=beta&t=ZGIIy2dq-SHdbhWiqB2lZGfBaxx_T-4GK2kZnMvRzrg" alt="Imagen" width="200" style="margin-right: 20px;">
     <p>
 	    <strong>Analista de Datos - Consultor</strong><br>
         Hola, soy Tobias Oliva Pinto, un joven argentino de 25 años con ciudadanía italiana. Me gradué en Ingeniería Industrial y Data Science. En la actualidad, combino lo mejor de ambas disciplinas como Analista de Datos en una empresa dedicada a la comercialización de insumos químicos en la República Argentina. Apasionado por los deportes y ávido viajero, me considero una persona curiosa y resiliente. También quiero destacar mi apoyo al desarrollo sostenible.
