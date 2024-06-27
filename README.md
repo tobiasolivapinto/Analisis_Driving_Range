@@ -39,7 +39,9 @@ Encargado de la recopilación, depuración y disponibilización de los datos, pa
 - **Analista Financiero**
 Asiste en el análisis general del proyecto desde la perspectiva financiera.
 - **Consultor**
-Analiza la información provista y ofrece alternativas con el objetivo de mejorar la situación actual. 
+Analiza la información provista y ofrece alternativas con el objetivo de mejorar la situación actual.
+- **Gestión General**
+Encargado del orden general del proyecto, conección entre el cliente y la empresa.
 
 Cabe destacar que cada integrante no se desempeñara en un solo rol. Dada la orientacion de cada uno, este tendra mayor influencia en las decisiones que se tomen de su respectivo campo de estudio, pero la opinion de todo el grupo será valida y tenida en cuenta, con el objetivo de analizar la problematica desde distintas persepectivas.  
 
@@ -62,7 +64,7 @@ Fuera del ámbito profesional, mis intereses se centran en el deporte y en disfr
 <div style="display: flex; align-items: center;">
     <img src="https://media.licdn.com/dms/image/D4D03AQEdT22fGqXD9g/profile-displayphoto-shrink_400_400/0/1701792935305?e=1724889600&v=beta&t=iorbtFKjydngGv7b4T7jA6YCDjBrBcuXnYCcE_QedL0" alt="Imagen" width="200" style="margin-right: 20px;">
     <p>
-	    <strong>Analista de Datos - Consultor</strong><br>
+	    <strong>Gestión General - Consultor</strong><br>
         Hola, soy Santiago, un futuro Ingeniero Industrial, Analista de datos y apasionado Emprendedor de 23 años nacido en Italia y criado en Argentina. Fusiono mis habilidades técnicas con creatividad y determinación. Me encuentro en constante desarrollo de nuevos proyectos innovadores de diferentes ámbitos, exigiendo mi capacidad de adaptabilidad y destacando mi búsqueda de soluciones creativas. Inspirado por el deporte y lo desconocido.
     </p>
 </div>
