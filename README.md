@@ -1,6 +1,6 @@
 # Análisis Driving Range - INWARD Data Solutions   
 ## Golf Academy - Driving Range 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm5NZEuk_x6K3s1z4q1L_5tlxSqh_55d-RTA8V7cTl_WEQmIa-GlBzCvUuotsmniJX2SA&usqp=CAU" alt="Imagen" width="300"> <img src="https://scontent.fcor10-3.fna.fbcdn.net/v/t39.30808-6/405252246_122100945590134016_4479328657238629545_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=783fdb&_nc_eui2=AeFQLiJhmmNmsDmbZFM4kRdzt7Au4DSTbqy3sC7gNJNurA6HzAb2MuR1--91LajZGP7lCmCzXLfzeQ1RTUnN4LHr&_nc_ohc=fZ1d9T6kB9UAX-bnx23&_nc_ht=scontent.fcor10-3.fna&oh=00_AfCXvPdZJx1tvP4bld9nz226MD14RcOPFHazQiPynF4dpg&oe=65886B13" alt="Imagen" width="300"> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm5NZEuk_x6K3s1z4q1L_5tlxSqh_55d-RTA8V7cTl_WEQmIa-GlBzCvUuotsmniJX2SA&usqp=CAU" alt="Imagen" width="300"> <img src="https://media.licdn.com/dms/image/D4D0BAQEFz7c0LAfJUw/company-logo_200_200/0/1714671894285/inward_data_solution_logo?e=1727308800&v=beta&t=ibICQnM8TF_8MutLhqjQMUQmAmbUItH3rztIA1ECSCo" alt="Imagen" width="300"> 
 
 ------------
 
